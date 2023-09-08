@@ -1,2 +1,1 @@
-Hi  Hello
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=86A142&background=304EFF00&center=true&vCenter=true&width=435&height=100&lines=Kang+Jung+Mook)](https://git.io/typing-svg)
