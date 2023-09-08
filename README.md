@@ -8,7 +8,7 @@
     </a>
 </div><br>
 
-## 🔨 Once I've used 🔨
+## 🔨 Skills 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
