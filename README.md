@@ -17,7 +17,6 @@
       <!-- Database -->
     <p><strong>Database</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
     </div>
      <!-- Development Tools -->
@@ -30,13 +29,11 @@
     <!-- Framework -->
     <p><strong>Framework</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     </div>
         <!-- Version Control -->
     <p><strong>Version Control</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
     </div>
