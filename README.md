@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=60)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=400&size=30&duration=2000&pause=2&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=800&height=60&lines=Welcome+Kang+jung+mook+GitHub!👋)](https://git.io/typing-svg)
-
 ## 🔨 Skills 🔨
 
 ### 🖥️ Frontend
