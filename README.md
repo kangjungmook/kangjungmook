@@ -1,34 +1,33 @@
-## 🔨 Skills 🔨
+### 강정묵 · Backend Developer
 
-### 🖥️ Frontend
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js">
-</div>
+Java / Spring Boot 백엔드 개발자입니다.  
+현재 산업기능요원으로 복무하며 개발 중입니다.
 
-### ⚙️ Backend
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-</div>
+<br/>
 
-### 🗄️ Database
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</div>
+<table>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring&theme=dark" height="28"/></td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" height="28"/></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,vue&theme=dark" height="28"/></td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="28"/></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,idea,vscode&theme=dark" height="28"/></td>
+  </tr>
+</table>
 
-### 🛠️ Development Tools
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white" alt="Eclipse">
-</div>
+<br/>
 
-### 📚 Frameworks
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
-</div>
+📬 k01088219732@gmail.com &nbsp; 🌐 [Portfolio](https://portfolio-site-oorx.vercel.app)
