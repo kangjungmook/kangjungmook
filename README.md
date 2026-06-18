@@ -8,7 +8,7 @@ Java / Spring Boot 백엔드 개발자입니다.
 <table>
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring&theme=dark" height="28"/></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,py&theme=dark" height="28"/></td>
   </tr>
   <tr>
     <td><b>Database</b></td>
