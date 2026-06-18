@@ -30,4 +30,4 @@ Java / Spring Boot 백엔드 개발자입니다.
 
 <br/>
 
-📬 k01088219732@gmail.com &nbsp; 🌐 [Portfolio](https://portfolio-site-oorx.vercel.app)
+📬 kgp294d@gmail.com &nbsp; 🌐 [Portfolio](https://portfolio-site-oorx.vercel.app)
