@@ -16,7 +16,7 @@ Java / Spring Boot 백엔드 개발자입니다.
   </tr>
   <tr>
     <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,vue&theme=dark" height="28"/></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,vue,react,nextjs&theme=dark" height="28"/></td>
   </tr>
   <tr>
     <td><b>DevOps</b></td>
