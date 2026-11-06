@@ -64,13 +64,4 @@ Java · Spring Boot · MyBatis · Oracle을 주력으로 백엔드 개발을 합
 
 <br/>
 
-#### 프로젝트
-
-- [회의실 예약 시스템](https://github.com/kangjungmook/meeting-room): 사내 회의실 예약·관리·키오스크를 하나로 묶은 풀스택 시스템 (Spring Boot, Vue)
-- [포트폴리오 사이트](https://github.com/kangjungmook/portfolio_site): 이 사이트를 만든 Next.js 프로젝트
-
-더 자세한 내용은 포트폴리오에서 볼 수 있습니다.
-
-<br/>
-
 📬 [kangjungmook882@gmail.com](mailto:kangjungmook882@gmail.com) &nbsp; 🌐 [Portfolio](https://kangjungmook.vercel.app)
