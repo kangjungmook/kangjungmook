@@ -6,19 +6,65 @@
 
 <br/>
 
-| | |
-| --- | --- |
-| **Backend** | Java, Spring Boot, MyBatis, Node.js |
-| **Frontend** | React, Vue 3 (Pinia), React Native (Expo), TypeScript |
-| **Database** | Oracle, MariaDB, Supabase |
-| **DevOps / Infra** | Docker, nginx, Vercel, WAR 배포, 네트워크 구성 |
-| **API / AI** | Google Gemini, Claude API, 토스페이먼츠 |
-| **Tools** | GitLab, GitHub, SVN, Claude Code |
-| **Etc** | Python, OpenCV, Tkinter, PyInstaller |
+#### 주력 기술
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="assets/skills/java.svg" width="40" height="40" alt="Java" align="absmiddle"/><br/>
+      <b>Java</b>
+    </td>
+    <td align="center" width="150">
+      <img src="assets/skills/spring-boot.svg" width="40" height="40" alt="Spring Boot" align="absmiddle"/><br/>
+      <b>Spring Boot</b>
+    </td>
+    <td align="center" width="150">
+      <img src="assets/skills/mybatis.svg" width="40" height="40" alt="MyBatis" align="absmiddle"/><br/>
+      <b>MyBatis</b>
+    </td>
+    <td align="center" width="150">
+      <img src="assets/skills/oracle.svg" width="40" height="40" alt="Oracle" align="absmiddle"/><br/>
+      <b>Oracle</b>
+    </td>
+  </tr>
+</table>
+
+#### Skills
+
+<table>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="assets/skills/java.svg" width="20" height="20" alt="Java" align="absmiddle"/>&nbsp;Java &nbsp;&nbsp;&nbsp; <img src="assets/skills/spring-boot.svg" width="20" height="20" alt="Spring Boot" align="absmiddle"/>&nbsp;Spring Boot &nbsp;&nbsp;&nbsp; <img src="assets/skills/mybatis.svg" width="20" height="20" alt="MyBatis" align="absmiddle"/>&nbsp;MyBatis &nbsp;&nbsp;&nbsp; <img src="assets/skills/nodejs.svg" width="20" height="20" alt="Node.js" align="absmiddle"/>&nbsp;Node.js</td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="assets/skills/react.svg" width="20" height="20" alt="React" align="absmiddle"/>&nbsp;React &nbsp;&nbsp;&nbsp; <img src="assets/skills/vue.svg" width="20" height="20" alt="Vue 3 (Pinia)" align="absmiddle"/>&nbsp;Vue 3 (Pinia) &nbsp;&nbsp;&nbsp; <img src="assets/skills/react-native.svg" width="20" height="20" alt="React Native (Expo)" align="absmiddle"/>&nbsp;React Native (Expo) &nbsp;&nbsp;&nbsp; <img src="assets/skills/typescript.svg" width="20" height="20" alt="TypeScript" align="absmiddle"/>&nbsp;TypeScript</td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td><img src="assets/skills/oracle.svg" width="20" height="20" alt="Oracle" align="absmiddle"/>&nbsp;Oracle &nbsp;&nbsp;&nbsp; <img src="assets/skills/mariadb.svg" width="20" height="20" alt="MariaDB" align="absmiddle"/>&nbsp;MariaDB &nbsp;&nbsp;&nbsp; <img src="assets/skills/supabase.svg" width="20" height="20" alt="Supabase" align="absmiddle"/>&nbsp;Supabase</td>
+  </tr>
+  <tr>
+    <td><b>DevOps / Infra</b></td>
+    <td><img src="assets/skills/docker.svg" width="20" height="20" alt="Docker" align="absmiddle"/>&nbsp;Docker &nbsp;&nbsp;&nbsp; <img src="assets/skills/nginx.svg" width="20" height="20" alt="nginx" align="absmiddle"/>&nbsp;nginx &nbsp;&nbsp;&nbsp; <img src="assets/skills/vercel.svg" width="20" height="20" alt="Vercel" align="absmiddle"/>&nbsp;Vercel &nbsp;&nbsp;&nbsp; <img src="assets/skills/war.svg" width="20" height="20" alt="WAR 배포" align="absmiddle"/>&nbsp;WAR 배포 &nbsp;&nbsp;&nbsp; <img src="assets/skills/network.svg" width="20" height="20" alt="네트워크 구성" align="absmiddle"/>&nbsp;네트워크 구성</td>
+  </tr>
+  <tr>
+    <td><b>API / AI</b></td>
+    <td><img src="assets/skills/gemini.svg" width="20" height="20" alt="Google Gemini" align="absmiddle"/>&nbsp;Google Gemini &nbsp;&nbsp;&nbsp; <img src="assets/skills/claude.svg" width="20" height="20" alt="Claude API" align="absmiddle"/>&nbsp;Claude API &nbsp;&nbsp;&nbsp; <img src="assets/skills/tosspayments.svg" width="20" height="20" alt="토스페이먼츠" align="absmiddle"/>&nbsp;토스페이먼츠</td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="assets/skills/gitlab.svg" width="20" height="20" alt="GitLab" align="absmiddle"/>&nbsp;GitLab &nbsp;&nbsp;&nbsp; <img src="assets/skills/github.svg" width="20" height="20" alt="GitHub" align="absmiddle"/>&nbsp;GitHub &nbsp;&nbsp;&nbsp; <img src="assets/skills/svn.svg" width="20" height="20" alt="SVN" align="absmiddle"/>&nbsp;SVN &nbsp;&nbsp;&nbsp; <img src="assets/skills/claude.svg" width="20" height="20" alt="Claude Code" align="absmiddle"/>&nbsp;Claude Code</td>
+  </tr>
+  <tr>
+    <td><b>Etc</b></td>
+    <td><img src="assets/skills/python.svg" width="20" height="20" alt="Python" align="absmiddle"/>&nbsp;Python &nbsp;&nbsp;&nbsp; <img src="assets/skills/opencv.svg" width="20" height="20" alt="OpenCV" align="absmiddle"/>&nbsp;OpenCV &nbsp;&nbsp;&nbsp; <img src="assets/skills/tkinter.svg" width="20" height="20" alt="Tkinter" align="absmiddle"/>&nbsp;Tkinter &nbsp;&nbsp;&nbsp; <img src="assets/skills/pyinstaller.svg" width="20" height="20" alt="PyInstaller" align="absmiddle"/>&nbsp;PyInstaller</td>
+  </tr>
+</table>
 
 <br/>
 
-### 프로젝트
+#### 프로젝트
 
 - [회의실 예약 시스템](https://github.com/kangjungmook/meeting-room): 사내 회의실 예약·관리·키오스크를 하나로 묶은 풀스택 시스템 (Spring Boot, Vue)
 - [포트폴리오 사이트](https://github.com/kangjungmook/portfolio_site): 이 사이트를 만든 Next.js 프로젝트
