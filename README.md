@@ -54,13 +54,19 @@ Java · Spring Boot · MyBatis · Oracle을 주력으로 백엔드 개발을 합
   </tr>
   <tr>
     <td><b>Tools</b></td>
-    <td><img src="assets/skills/gitlab.svg" width="20" height="20" alt="GitLab" align="absmiddle"/>&nbsp;GitLab &nbsp;&nbsp;&nbsp; <img src="assets/skills/github.svg" width="20" height="20" alt="GitHub" align="absmiddle"/>&nbsp;GitHub &nbsp;&nbsp;&nbsp; <img src="assets/skills/svn.svg" width="20" height="20" alt="SVN" align="absmiddle"/>&nbsp;SVN &nbsp;&nbsp;&nbsp; <img src="assets/skills/claude.svg" width="20" height="20" alt="Claude Code" align="absmiddle"/>&nbsp;Claude Code</td>
+    <td><img src="assets/skills/gitlab.svg" width="20" height="20" alt="GitLab" align="absmiddle"/>&nbsp;GitLab &nbsp;&nbsp;&nbsp; <img src="assets/skills/github.svg" width="20" height="20" alt="GitHub" align="absmiddle"/>&nbsp;GitHub &nbsp;&nbsp;&nbsp; <img src="assets/skills/svn.svg" width="20" height="20" alt="SVN" align="absmiddle"/>&nbsp;SVN &nbsp;&nbsp;&nbsp; <img src="assets/skills/claude.svg" width="20" height="20" alt="Claude Code" align="absmiddle"/>&nbsp;Claude Code &nbsp;&nbsp;&nbsp; <img src="assets/skills/openai.svg" width="20" height="20" alt="Codex" align="absmiddle"/>&nbsp;Codex &nbsp;&nbsp;&nbsp; <img src="assets/skills/openai.svg" width="20" height="20" alt="ChatGPT" align="absmiddle"/>&nbsp;ChatGPT</td>
   </tr>
   <tr>
     <td><b>Etc</b></td>
     <td><img src="assets/skills/python.svg" width="20" height="20" alt="Python" align="absmiddle"/>&nbsp;Python &nbsp;&nbsp;&nbsp; <img src="assets/skills/opencv.svg" width="20" height="20" alt="OpenCV" align="absmiddle"/>&nbsp;OpenCV &nbsp;&nbsp;&nbsp; <img src="assets/skills/tkinter.svg" width="20" height="20" alt="Tkinter" align="absmiddle"/>&nbsp;Tkinter &nbsp;&nbsp;&nbsp; <img src="assets/skills/pyinstaller.svg" width="20" height="20" alt="PyInstaller" align="absmiddle"/>&nbsp;PyInstaller</td>
   </tr>
 </table>
+
+<br/>
+
+#### AI 활용
+
+주로 Claude Code로 개발하고, Codex와 ChatGPT도 함께 씁니다. 대신 AI가 써 준 코드도 그대로 믿지 않고, 직접 돌려 보고 테스트로 확인합니다.
 
 <br/>
 
