@@ -64,14 +64,9 @@ Java · Spring Boot · MyBatis · Oracle을 주력으로 백엔드 개발을 합
 
 <br/>
 
-#### AI와 일하는 방식
+#### AI 활용
 
-AI 코딩 도구(Claude Code)를 개발 흐름에 넣어 쓰되, 결과는 테스트로 검증하는 것을 원칙으로 합니다.
-
-- **맡기는 일과 직접 보는 일을 나눕니다.** 구현·리팩터링 초안은 AI와 빠르게 만들고, 설계 결정과 최종 검토는 직접 합니다.
-- **검증은 테스트로 합니다.** [busseat-sun](https://github.com/kangjungmook/busseat-sun)은 태양 위치 계산을 천문학적 사실(남중 방위, 일출 방향 등)로 검증하는 테스트 59개를 두었고, [SkinMatch](https://github.com/kangjungmook/SkinMatch)는 원본 프로토타입의 계산 결과와 숫자·순서가 같은지 비교하는 테스트를 두었습니다.
-- **서비스에 LLM을 연결합니다.** 사주잇에는 Google Gemini를, 논술 첨삭 앱 다듬에는 Claude API를 붙여 보았습니다.
-- **디자인 프로토타입을 코드로 옮깁니다.** Claude Design 프로토타입을 화면·색·여백 기준으로 구현하고, [포트폴리오 사이트](https://kangjungmook.vercel.app)도 같은 방식으로 만들었습니다.
+Claude Code로 개발 속도를 높이고, 결과는 테스트로 검증합니다. 서비스에는 Gemini · Claude API를 연동해 보았습니다.
 
 <br/>
 
