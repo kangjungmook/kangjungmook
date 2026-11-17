@@ -66,7 +66,7 @@ Java · Spring Boot · MyBatis · Oracle을 주력으로 백엔드 개발을 합
 
 #### AI 활용
 
-Claude Code로 개발 속도를 높이고, 결과는 테스트로 검증합니다. 서비스에는 Gemini · Claude API를 연동해 보았습니다.
+Claude Code · Codex · ChatGPT로 개발 속도를 높이고, 결과는 테스트로 검증합니다. 서비스에는 Gemini · Claude API를 연동해 보았습니다.
 
 <br/>
 
