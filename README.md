@@ -66,7 +66,7 @@ Java · Spring Boot · MyBatis · Oracle을 주력으로 백엔드 개발을 합
 
 #### AI 활용
 
-Claude Code, Codex, ChatGPT를 개발할 때 두루 씁니다. 대신 AI가 써 준 코드도 그대로 믿지 않고, 직접 돌려 보고 테스트로 확인합니다.
+주로 Claude Code로 개발하고, Codex와 ChatGPT도 함께 씁니다. 대신 AI가 써 준 코드도 그대로 믿지 않고, 직접 돌려 보고 테스트로 확인합니다.
 
 <br/>
 
