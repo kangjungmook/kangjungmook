@@ -54,7 +54,7 @@ Java · Spring Boot · MyBatis · Oracle을 주력으로 백엔드 개발을 합
   </tr>
   <tr>
     <td><b>Tools</b></td>
-    <td><img src="assets/skills/gitlab.svg" width="20" height="20" alt="GitLab" align="absmiddle"/>&nbsp;GitLab &nbsp;&nbsp;&nbsp; <img src="assets/skills/github.svg" width="20" height="20" alt="GitHub" align="absmiddle"/>&nbsp;GitHub &nbsp;&nbsp;&nbsp; <img src="assets/skills/svn.svg" width="20" height="20" alt="SVN" align="absmiddle"/>&nbsp;SVN &nbsp;&nbsp;&nbsp; <img src="assets/skills/claude.svg" width="20" height="20" alt="Claude Code" align="absmiddle"/>&nbsp;Claude Code</td>
+    <td><img src="assets/skills/gitlab.svg" width="20" height="20" alt="GitLab" align="absmiddle"/>&nbsp;GitLab &nbsp;&nbsp;&nbsp; <img src="assets/skills/github.svg" width="20" height="20" alt="GitHub" align="absmiddle"/>&nbsp;GitHub &nbsp;&nbsp;&nbsp; <img src="assets/skills/svn.svg" width="20" height="20" alt="SVN" align="absmiddle"/>&nbsp;SVN &nbsp;&nbsp;&nbsp; <img src="assets/skills/claude.svg" width="20" height="20" alt="Claude Code" align="absmiddle"/>&nbsp;Claude Code &nbsp;&nbsp;&nbsp; <img src="assets/skills/openai.svg" width="20" height="20" alt="Codex" align="absmiddle"/>&nbsp;Codex &nbsp;&nbsp;&nbsp; <img src="assets/skills/openai.svg" width="20" height="20" alt="ChatGPT" align="absmiddle"/>&nbsp;ChatGPT</td>
   </tr>
   <tr>
     <td><b>Etc</b></td>
